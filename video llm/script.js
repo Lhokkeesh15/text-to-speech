@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const url = `https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM`; // Changed back to the default voice
 
-    const apiKey = "sk_1964030c3eade71ef43614a7ef71602568579fd8b068957c";
+    const apiKey = "your-api-key";
 
     try {
       const response = await fetch(url, {
