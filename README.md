@@ -1,1 +1,1 @@
-developed using cursor- developed using prompts
+developed using cursor- written using prompts
